@@ -4,7 +4,7 @@ This project soccer API that give a list of soccer players in a team.
 
 ## Getting Started
 
-See api documentations [here](https://github.com/Dandi-Pangestu/efishery-service/blob/master/API.md).
+See api documentations [here](https://github.com/Dandi-Pangestu/ms-soccer/blob/master/API.md).
 
 ### Prerequisites
 

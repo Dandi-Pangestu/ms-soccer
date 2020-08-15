@@ -104,9 +104,9 @@
   * **Code:** 500 INTERNAL SERVER ERR <br />
     **Content:** `{ "message": "Internal server error" }`
 
-**Get List Team**
+**Get List Player**
 ----
-  Return all team.
+  Return all player.
 
 * **URL**
 
