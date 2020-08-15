@@ -1,0 +1,18 @@
+application:
+  env: development
+  server:
+    host: 0.0.0.0
+    port: 8080
+  resources:
+    database:
+      service-team-player:
+        driver: mysql
+        instance: localhost
+        port: 3306
+        dbname: team-player
+        username: root
+        password: 
+        options: charset=utf8&parseTime=True&loc=UTC
+    jwt:
+      team-player:
+        secret-key: team-player
