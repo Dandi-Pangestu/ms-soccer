@@ -11,7 +11,7 @@ See api documentations [here](https://github.com/Dandi-Pangestu/ms-soccer/blob/m
 * [Go](https://golang.org/)
 * [MySQL](https://www.mysql.com/)
 
-### Installing (Fetching Service)
+### Installing
 
 This step for installing and run the service
 
@@ -46,7 +46,7 @@ go build cmd/service-team-player/main.go
 
 The server will running at localhost:8080
 
-### Testing in Fetching Service
+### Testing
 
 Running test
 ```
